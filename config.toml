@@ -1,0 +1,4 @@
+baseURL = "http://blog.tossp.com/"
+languageCode = "zh-cn"
+title = "砼砼的小本子"
+theme = "academic"
