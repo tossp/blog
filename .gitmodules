@@ -4,3 +4,6 @@
 [submodule "themes/tslove"]
 	path = themes/tslove
 	url = https://github.com/tossp/hugo-tslove.git
+[submodule "themes/loveit"]
+	path = themes/loveit
+	url = https://github.com/dillonzq/LoveIt
