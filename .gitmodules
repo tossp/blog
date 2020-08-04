@@ -6,4 +6,4 @@
 	url = https://github.com/tossp/hugo-tslove.git
 [submodule "themes/loveit"]
 	path = themes/loveit
-	url = https://github.com/dillonzq/LoveIt
+	url = https://github.com/dillonzq/LoveIt.git
