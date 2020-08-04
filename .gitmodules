@@ -1,9 +1,9 @@
-[submodule "themes/academic"]
-	path = themes/academic
-	url = https://github.com/gcushen/hugo-academic.git
 [submodule "themes/tslove"]
 	path = themes/tslove
 	url = https://github.com/tossp/hugo-tslove.git
 [submodule "themes/loveit"]
 	path = themes/loveit
 	url = https://github.com/dillonzq/LoveIt.git
+[submodule "themes/academic"]
+	path = themes/academic
+	url = https://github.com/gcushen/hugo-academic.git
