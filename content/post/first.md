@@ -14,6 +14,7 @@ git submodule update --init --recursive
 hugo new site ./
 hugo new theme tslove
 git submodule add https://github.com/gcushen/hugo-academic.git themes/academic
+git submodule add https://github.com/dillonzq/LoveIt themes/loveit
 hugo new about.md
 hugo new post/first.md
 ```
